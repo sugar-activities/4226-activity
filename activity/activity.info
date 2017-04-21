@@ -1,0 +1,14 @@
+[Activity]
+
+name = OurMusic
+
+bundle_id = org.laptop.OurMusic
+icon = activity-ourmusic
+
+activity_version = 7
+
+host_version = 1
+
+show_launcher = yes
+exec = sugar-activity ourmusic.OurMusic
+license = CC-by-SA 3.0
